@@ -15,7 +15,11 @@ public class AutomaticCIWindowEditor : EditorWindow
     public static void OpenWindow()
     {
         AutomaticCIWindowEditor wnd = GetWindow<AutomaticCIWindowEditor>("AutomaticCI");
+<<<<<<< HEAD
         wnd.minSize = new Vector2(500, 400);
+=======
+        wnd.minSize = new Vector2(400, 400);
+>>>>>>> a29aa12a619fa8f7546a181f86b8ffd0b0132bd8
     }
 
     public void CreateGUI()
@@ -92,9 +96,12 @@ public class AutomaticCIWindowEditor : EditorWindow
 
     private void OnConfigurationFileChanged(AutomaticCISO configuration)
     {
+<<<<<<< HEAD
         if (configuration == null)
             return;
         
+=======
+>>>>>>> a29aa12a619fa8f7546a181f86b8ffd0b0132bd8
         UpdateConfigurationContent(configuration);
         GenerateGitlabCIFile(configuration);
     }
