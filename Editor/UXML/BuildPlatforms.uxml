@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/Editor/AutomaticCIWindowEditor.uss?fileID=7433441132597879392&amp;guid=c3834ba64adc5d54da4600a7f7506d43&amp;type=3#AutomaticCIWindowEditor" />
+    <ui:VisualElement name="build-platforms__section">
+        <ui:Label text="Build platforms" display-tooltip-when-elided="true" name="build-platforms__header" class="header-section" />
+        <ui:VisualElement name="build-platforms__content" style="margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 5px; padding-right: 5px; padding-top: 10px; padding-bottom: 10px; flex-direction: row; flex-wrap: wrap;" />
+    </ui:VisualElement>
+</ui:UXML>

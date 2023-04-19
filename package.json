@@ -1,0 +1,11 @@
+{
+  "name": "com.mariosep.automatic-ci",
+  "version": "0.1.0",
+  "displayName": "Automatic CI",
+  "description": "This is an example package",
+  "author": {
+    "name": "Mario Sepulveda Cornejo",
+    "email": "mariosep28@gmail.com",
+    "url": "https://gitlab.com/mariosep28"
+  }
+}

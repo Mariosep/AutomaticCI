@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/Editor/AutomaticCIWindowEditor.uss?fileID=7433441132597879392&amp;guid=c3834ba64adc5d54da4600a7f7506d43&amp;type=3#AutomaticCIWindowEditor" />
+    <ui:VisualElement name="configuration__content" style="flex-grow: 1;">
+        <ui:VisualElement name="settings" style="flex-grow: 1;" />
+        <ui:VisualElement name="persistence" style="flex-grow: 0;" />
+    </ui:VisualElement>
+</ui:UXML>
