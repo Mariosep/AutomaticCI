@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
     <Style src="project://database/Assets/Scripts/Editor/AutomaticCIWindowEditor.uss?fileID=7433441132597879392&amp;guid=c3834ba64adc5d54da4600a7f7506d43&amp;type=3#AutomaticCIWindowEditor" />
 </ui:UXML>
+=======
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Scripts/Editor/AutomaticCIWindowEditor.uss?fileID=7433441132597879392&amp;guid=c3834ba64adc5d54da4600a7f7506d43&amp;type=3#AutomaticCIWindowEditor" />
+</ui:UXML>
+>>>>>>> a29aa12a619fa8f7546a181f86b8ffd0b0132bd8
