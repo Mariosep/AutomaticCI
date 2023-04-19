@@ -3,7 +3,7 @@ using UnityEngine.UIElements;
 
 public class ConfigurationContentView : View
 {
-    private readonly string visualTreeAssetPath = "Assets/Editor/UXML/ConfigurationContent.uxml";
+    private readonly string visualTreeAssetPath = "Packages/com.mariosep.automatic-ci/Editor/UXML/ConfigurationContent.uxml";
 
     private VisualElement settings;
     private VisualElement persistence;

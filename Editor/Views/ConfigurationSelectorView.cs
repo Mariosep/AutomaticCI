@@ -6,7 +6,7 @@ using Object = UnityEngine.Object;
 
 public class ConfigurationSelectorView : View
 {
-    private readonly string visualTreeAssetPath = "Assets/Editor/UXML/ConfigurationSelector.uxml";
+    private readonly string visualTreeAssetPath = "Packages/com.mariosep.automatic-ci/Editor/UXML/ConfigurationSelector.uxml";
 
     public Action onCreateNewConfigurationButtonClicked;
     public Action<AutomaticCISO> onConfigurationObjectFieldChanged;    

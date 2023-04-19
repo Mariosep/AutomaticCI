@@ -14,7 +14,7 @@ public class SelectableBoxView : VisualElement
 
     public SelectableBoxView()
     {
-        StyleSheet styleSheet = AssetDatabase.LoadAssetAtPath<StyleSheet>($"Assets/Editor/USS/{styleResource}.uss");
+        StyleSheet styleSheet = AssetDatabase.LoadAssetAtPath<StyleSheet>($"Packages/com.mariosep.automatic-ci/Editor/USS/{styleResource}.uss");
         styleSheets.Add(styleSheet);
         
         AddToClassList(unselectedStyle);

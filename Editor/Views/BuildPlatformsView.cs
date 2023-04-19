@@ -7,7 +7,7 @@ public class BuildPlatformsView : View
 {
     public new class UxmlFactory : UxmlFactory<BuildPlatformsView, UxmlTraits> {}
     
-    private readonly string visualTreeAssetPath = "Assets/Editor/UXML/BuildPlatforms.uxml";
+    private readonly string visualTreeAssetPath = "Packages/com.mariosep.automatic-ci/Editor/UXML/BuildPlatforms.uxml";
 
     public Action<BuildTarget> onBuildPlatformSelected;
     public Action<BuildTarget> onBuildPlatformUnselected;

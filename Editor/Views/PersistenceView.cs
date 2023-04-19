@@ -4,7 +4,7 @@ using UnityEngine.UIElements;
 
 public class PersistenceView : View
 {
-    private readonly string visualTreeAssetPath = "Assets/Editor/UXML/Persistence.uxml";
+    private readonly string visualTreeAssetPath = "Packages/com.mariosep.automatic-ci/Editor/UXML/Persistence.uxml";
 
     public Action onRevertButtonClicked;
     public Action onApplyButtonClicked;

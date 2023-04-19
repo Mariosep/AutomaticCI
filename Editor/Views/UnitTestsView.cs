@@ -5,7 +5,7 @@ public class UnitTestsView : View
 {
     public new class UxmlFactory : UxmlFactory<UnitTestsView, UxmlTraits> {}
     
-    private readonly string visualTreeAssetPath = "Assets/Editor/UXML/UnitTests.uxml";
+    private readonly string visualTreeAssetPath = "Packages/com.mariosep.automatic-ci/Editor/UXML/UnitTests.uxml";
     
     public UnitTestsView()
     {
