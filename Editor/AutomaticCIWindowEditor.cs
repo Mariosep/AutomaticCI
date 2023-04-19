@@ -15,7 +15,7 @@ public class AutomaticCIWindowEditor : EditorWindow
     public static void OpenWindow()
     {
         AutomaticCIWindowEditor wnd = GetWindow<AutomaticCIWindowEditor>("AutomaticCI");
-        wnd.minSize = new Vector2(400, 400);
+        wnd.minSize = new Vector2(500, 400);
     }
 
     public void CreateGUI()
@@ -92,7 +92,7 @@ public class AutomaticCIWindowEditor : EditorWindow
 
     private void OnConfigurationFileChanged(AutomaticCISO configuration)
     {
-        if(configuration == null)
+        if (configuration == null)
             return;
         
         UpdateConfigurationContent(configuration);

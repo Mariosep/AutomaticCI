@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
     <ui:VisualElement name="persistence" style="flex-direction: row-reverse; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;">
         <ui:Button text="Apply" display-tooltip-when-elided="true" name="apply-button" class="button_big" />
         <ui:Button text="Revert" display-tooltip-when-elided="true" name="revert-button" class="button_big" />
     </ui:VisualElement>
 </ui:UXML>
-=======
-<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
-    <ui:VisualElement name="persistence" style="flex-direction: row-reverse; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;">
-        <ui:Button text="Apply" display-tooltip-when-elided="true" name="apply-button" class="button_big" />
-        <ui:Button text="Revert" display-tooltip-when-elided="true" name="revert-button" class="button_big" />
-    </ui:VisualElement>
-</ui:UXML>
->>>>>>> a29aa12a619fa8f7546a181f86b8ffd0b0132bd8

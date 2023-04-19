@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3db0ff52-3b91-4ad2-bd29-09802ca3597c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AutomaticCI.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AutomaticCI.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AutomaticCI.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/AutomaticCIBuilder.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/AutomaticCIBuilder.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/AutomaticCIPostprocessor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/AutomaticCIPostprocessor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/AutomaticCISettings.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/AutomaticCISettings.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/AutomaticCIWindowEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/AutomaticCIWindowEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/AutomaticCIWindowEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/AutomaticCIWindowEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/BuildCommand.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/BuildCommand.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/BuildUtility.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/BuildUtility.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Controller.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Controller.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Controllers.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Controllers.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Controllers/BuildPlatformsController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Controllers/BuildPlatformsController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Controllers/ConfigurationContentController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Controllers/ConfigurationContentController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Controllers/ConfigurationSelectorController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Controllers/ConfigurationSelectorController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Controllers/PersistenceController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Controllers/PersistenceController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Editor.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Editor.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Editor.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/EventBus.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/EventBus.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/ScriptableObjects.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/ScriptableObjects.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/ScriptableObjects/AutomaticCISO.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/ScriptableObjects/AutomaticCISO.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/USS.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/USS.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/USS/AutomaticCIWindowEditor.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/USS/AutomaticCIWindowEditor.uss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/USS/AutomaticCIWindowEditor.uss.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/USS/AutomaticCIWindowEditor.uss.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/USS/SelectableBoxStyleSheet.uss" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/USS/SelectableBoxStyleSheet.uss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/USS/SelectableBoxStyleSheet.uss.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/USS/SelectableBoxStyleSheet.uss.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML/AutomaticCIWindowEditor.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML/AutomaticCIWindowEditor.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML/AutomaticCIWindowEditor.uxml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML/AutomaticCIWindowEditor.uxml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML/BuildPlatforms.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML/BuildPlatforms.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML/BuildPlatforms.uxml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML/BuildPlatforms.uxml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML/ConfigurationContent.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML/ConfigurationContent.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML/ConfigurationContent.uxml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML/ConfigurationContent.uxml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML/ConfigurationSelector.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML/ConfigurationSelector.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML/ConfigurationSelector.uxml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML/ConfigurationSelector.uxml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML/Persistence.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML/Persistence.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML/Persistence.uxml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML/Persistence.uxml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML/UnitTests.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML/UnitTests.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/UXML/UnitTests.uxml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/UXML/UnitTests.uxml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/View.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/View.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Views.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Views.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Views/BuildPlatformBoxView.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Views/BuildPlatformBoxView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Views/BuildPlatformsView.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Views/BuildPlatformsView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Views/ConfigurationContentView.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Views/ConfigurationContentView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Views/ConfigurationSelectorView.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Views/ConfigurationSelectorView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Views/PersistenceView.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Views/PersistenceView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Views/SelectableBoxView.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Views/SelectableBoxView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/Views/UnitTestsView.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Editor/Views/UnitTestsView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md.meta" beforeDir="false" afterPath="$PROJECT_DIR$/README.md.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/BuilderTester.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/BuilderTester.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Runtime.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Runtime.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Runtime.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Runtime.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Utils.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Utils.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Utils/Singleton.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Utils/Singleton.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Editor/EditorModeTests.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Editor/EditorModeTests.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Editor/EditorTests.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Editor/EditorTests.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Editor/EditorTests.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Editor/EditorTests.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Runtime.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Runtime.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Runtime/PlayModeTests.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Runtime/PlayModeTests.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Runtime/RuntimeTests.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Runtime/RuntimeTests.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Runtime/RuntimeTests.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Runtime/RuntimeTests.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/package.json.meta" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/AutomaticCIBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/AutomaticCIBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/AutomaticCIBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/AutomaticCIBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/AutomaticCIBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/AutomaticCIBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/AutomaticCIBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Editor/AutomaticCIPostprocessor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/AutomaticCIPostprocessor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/AutomaticCISettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Editor/AutomaticCISettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/AutomaticCIWindowEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Editor/AutomaticCIWindowEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/Controllers/BuildPlatformsController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/Controllers/BuildPlatformsController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/Controllers/BuildPlatformsController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/Controllers/BuildPlatformsController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Editor/ScriptableObjects/AutomaticCISO.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/ScriptableObjects/AutomaticCISO.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/Views/BuildPlatformsView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/Editor/Views/BuildPlatformsView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Unity/Proyectos/Proyectos 2023/Automatic CI/Packages/AutomaticCI/LICENSE.meta" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectId" id="2OeJZy1KFSVrZdhbQKFcR9p4KAM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "D:\\Users\\Mario\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "D:\\Users\\Mario\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "D:\\Users\\Mario\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3db0ff52-3b91-4ad2-bd29-09802ca3597c" name="Changes" comment="" />
+      <created>1681915173685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681915173685</updated>
+      <workItem from="1681915174978" duration="1372000" />
+    </task>
+    <task id="LOCAL-00001" summary="Revert &quot;Modify min window width&quot;&#10;&#10;This reverts commit 392d77f9">
+      <created>1681915670074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681915670074</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <created>1681915903834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681915903834</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Revert &quot;Modify min window width&quot;&#10;&#10;This reverts commit 392d77f9" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+Index: LICENSE.meta
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>fileFormatVersion: 2\r\nguid: 8270e1d4d18a4b03bf9bc0f5b0de6cbf\r\ntimeCreated: 1681909064
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/LICENSE.meta b/LICENSE.meta
+--- a/LICENSE.meta	(revision a8ec429f6102f6419c57df67122bd8a24fb139d5)
++++ b/LICENSE.meta	(date 1681915652865)
+@@ -1,3 +1,3 @@
+ fileFormatVersion: 2
+-guid: 8270e1d4d18a4b03bf9bc0f5b0de6cbf
++guid: 8b0bb63425a3ebb4d96707e00c97175d
+ timeCreated: 1681909064
+\ No newline at end of file
