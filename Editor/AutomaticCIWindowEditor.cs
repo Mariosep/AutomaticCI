@@ -92,6 +92,9 @@ public class AutomaticCIWindowEditor : EditorWindow
 
     private void OnConfigurationFileChanged(AutomaticCISO configuration)
     {
+        if(configuration == null)
+            return;
+        
         UpdateConfigurationContent(configuration);
         GenerateGitlabCIFile(configuration);
     }
