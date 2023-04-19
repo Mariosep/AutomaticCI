@@ -1,0 +1,16 @@
+{
+    "name": "Mariosep.AutomaticCI.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b00a730fff15376449b8dcdb05efd5e2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
